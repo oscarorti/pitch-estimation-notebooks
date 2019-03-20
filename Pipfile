@@ -11,6 +11,8 @@ pandas = "*"
 numpy = "*"
 scipy = "*"
 matplotlib = "*"
+sklearn = "*"
+librosa = "*"
 
 [requires]
 python_version = "3.7"
